@@ -1,0 +1,29 @@
+.singlePost {
+  flex: 9;
+  display: flex;
+  margin: 70px;
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+  /* max-width: 500px; */
+}
+.parent {
+  display: flex;
+  background-color: #eee;
+}
+.singlePost > h2 {
+  margin: 5px;
+}
+.singlePost > span {
+  margin: 5px;
+}
+.singlePost > h4 {
+  margin: 5px;
+}
+
+.side {
+  flex: 3;
+}
+.image {
+  border-radius: 10px;
+}

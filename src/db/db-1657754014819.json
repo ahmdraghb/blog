@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ahmed Ragheb",
+      "img": "https://max-themes.net/demos/akea/upload/pexels-photo-871053-1000x486.jpg",
+      "title": "9 Most Awesome Blue Lake With Snow Mountain",
+      "desc": "I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia...."
+    },
+    {
+      "id": 2,
+      "name": "Mohamed Ragheb",
+      "img": "https://max-themes.net/demos/akea/upload/pexels-photo-25284-1000x486.jpg",
+      "title": "8 Ways To Travel Like a Pro"
+    },
+    {
+      "id": 3,
+      "name": "Bassant Ragheb",
+      "img": "https://max-themes.net/demos/akea/upload/pexels-photo-225227-1000x486.jpg",
+      "title": "5 Beginner Photographer’s Mistakes"
+    }
+  ]
+}

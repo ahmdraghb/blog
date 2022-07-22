@@ -1,0 +1,85 @@
+.side {
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 50px;
+}
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  border-top: 1px solid #ec6a2a;
+  border-bottom: 1px solid #ec6a2a;
+  text-align: center;
+  margin-bottom: 10px;
+  width: 80%;
+}
+
+.para {
+  color: #8b8b8b;
+  margin-top: 10px;
+  padding: 30px;
+}
+.follow {
+  width: 80%;
+  background: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* height: 300px; */
+}
+.followus {
+  padding: 10px;
+  margin: 8px;
+  border-top: 1px solid #ec6a2a;
+  border-bottom: 1px solid #ec6a2a;
+  width: 50%;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.icons > i {
+  color: #717171;
+  margin: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.icons > i:hover {
+  color: #ec6a2a;
+  transform: scale(1.4);
+}
+.follow > h3 {
+  font-weight: bold;
+  margin: 10px;
+  letter-spacing: 5px;
+}
+.follow > p {
+  color: #717171;
+  margin: 10px;
+}
+.follow > input {
+  margin-bottom: 10px;
+  height: 30px;
+  border: none;
+}
+.follow > button {
+  background-color: #2f2f2f;
+  color: #d7d7d7;
+  height: 40px;
+  width: 50%;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  cursor: pointer;
+  font-size: 12px;
+}
+.follow > button:hover {
+  opacity: 0.8;
+}

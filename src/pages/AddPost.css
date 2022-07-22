@@ -1,0 +1,55 @@
+.addPost {
+  padding-top: 10px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.add {
+  padding: 10px;
+}
+
+.icon {
+  color: #ec6a2a;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+.title {
+  width: 400px;
+  height: 30px;
+}
+.Description {
+  width: 450px;
+  height: 50px;
+}
+.submit {
+  width: 150px;
+  height: 40px;
+  margin-top: 10px;
+  background-color: #ec6a2a;
+  border: none;
+  color: #242424;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.submit:hover {
+  background-color: #242424;
+  color: #ec6a2a;
+}
+.image {
+  height: 400px;
+  border-radius: 10px;
+}

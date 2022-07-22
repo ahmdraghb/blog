@@ -1,0 +1,10 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+// import path from "path";
+// import "./firebase.js";
+// const path = require("path");
+// app.use("/imgs", express.static(path.join(__dirname, "/imgs")));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />);
